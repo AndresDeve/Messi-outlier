@@ -209,4 +209,4 @@ __marimo__/
 # Ignore local CSV datasets
 data/appearances.csv
 data/players.csv
-data/player_valuation.csv
+data/player_valuations.csv

@@ -1,6 +1,6 @@
 # Messi Outlier
 
-In this project we explore Lionel Messi's career through **data analysis and visualization**. Our main goal is to show whether Lionel Messi stands out as a statistical outlier in football history.
+We explore Lionel Messi's career through **data analysis and visualization**. We aim to examine whether Lionel Messi stands out as a statistical outlier in football history.
 
 ## Repository Structure
 

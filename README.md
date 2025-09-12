@@ -17,11 +17,7 @@ We explore Lionel Messi's career through **data analysis and visualization**. We
 
 ## History of Changes
 
-All meaningful updates are documented in [CHANGES.md](CHANGES.md).
-
-- Please add a **date-stamped, one-line entry** after each meaningful change.  
-- Use the format: `DD-MM-YYYY — short description — Author`.  
-- Latest changes always appear **on top**.  
+All updates are documented in [CHANGES.md](CHANGES.md).
 
 ## Authors
 

@@ -12,5 +12,5 @@ Date format is DD-MM-YYYY.
 -   Created initial repo structure (`data/`, `notebooks/`, `src/`, `figs/`). --- Andrés
 -   Added `.gitignore`, `requirements.txt`, and `README.md`. --- Andrés
 -   Added starter notebook `notebooks/messi_exploration.ipynb`. --- Andrés
--   Created `dataset_to_parquet.ipynb` for CSV to Parquet conversion. --- Andrés
--   Added `.parquet` datasets into `data/` folder --- Andrés
+-   Added `csv_to_parquet.ipynb` for CSV to Parquet conversion into `data/` folder. --- Andrés
+-   Added `.parquet` datasets into `data/` folder. --- Andrés

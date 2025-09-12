@@ -18,4 +18,4 @@ We explore Lionel Messi's career through **data analysis and visualization**. We
 ## Main authors:
 
 -   Andrés Devegili
--   Ben O-bar
+-   Ben Bar-Or

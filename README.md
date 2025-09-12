@@ -15,7 +15,15 @@ In this project we explore Lionel Messi's career through **data analysis and vis
 
 **note:** Since this is a small two-people project, we may both push directly to main. For bigger changes, we might create a feature branch and then open a Pull Request.
 
-## Main authors:
+## History of Changes
+
+All meaningful updates are documented in [CHANGES.md](CHANGES.md).
+
+- Please add a **date-stamped, one-line entry** after each meaningful change.  
+- Use the format: `DD-MM-YYYY — short description — Author`.  
+- Latest changes always appear **on top**.  
+
+## Authors
 
 -   Andrés Devegili
 -   Ben O-bar

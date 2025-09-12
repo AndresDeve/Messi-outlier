@@ -15,7 +15,7 @@ In this project we explore Lionel Messi's career through **data analysis and vis
 
 **note:** Since this is a small two-people project, we may both push directly to main. For bigger changes, we might create a feature branch and then open a Pull Request.
 
-## Authors:
+## Main authors:
 
 -   Andrés Devegili
 -   Ben O-bar

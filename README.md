@@ -1,13 +1,13 @@
 # Messi Outlier
 
-We explore Lionel Messi's career through **data analysis and visualization**. We aim to examine whether Lionel Messi stands out as a statistical outlier in football history.
+Lionel Messi's career through **data analysis and visualization**. Aim: to examine whether Lionel Messi stands out as a statistical outlier.
 
-## Repository Structure
+## Repo Structure
 
--   `data/` → sample datasets or links (large data will not be stored here).
--   `notebooks/` → this is meant for Exploration. Jupyter notebooks for exploratory analysis.
--   `src/` → this is meant for clean reusable Python scripts (data loading, plotting, utils).
--   `figs/` → exported charts and visualizations.
+-   `data/` → sample datasets or links.
+-   `notebooks/` → for exploratory analysis.
+-   `src/` → clean reusable scripts (data loading, plotting, utils).
+-   `figs/` → vizzes.
 
 ## To collaborate:
 
@@ -17,9 +17,9 @@ We explore Lionel Messi's career through **data analysis and visualization**. We
 
 ## History of Changes
 
-All updates are documented in [CHANGES.md](CHANGES.md).
+All updates are in [CHANGES.md](CHANGES.md).
 
-## Authors
+## Contributors
 
 -   Andrés Devegili
 -   Ben Bar-Or

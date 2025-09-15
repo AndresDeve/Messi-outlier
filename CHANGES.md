@@ -5,11 +5,13 @@ One line per change, with author initial at the end.\
 Latest changes **on top**.\
 
 ------------------------------------------------------------------------
+## 15-09-2025
+-   Renamed datasets to better reflect their origin --- A
+-   Updated notebooks to match new dataset names. --- A
 
 ## 13-09-2025
 -   Added dataset2. --- A
 -   Added `notebooks/messi_exploration_dataset2.ipynb`. --- A
-
 
 ## 12-09-2025
 -   Repo structure (`data/`, `notebooks/`, `src/`, `figs/`). --- A

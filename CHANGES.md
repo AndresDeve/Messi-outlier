@@ -1,17 +1,21 @@
 # History of Changes
 
-Simple date-stamped notes of updates. Date format: DD-MM-YYYY.\
-One line per change, with author initial at the end.\
 Latest changes **on top**.\
+Date-stamped notes with date (DD-MM-YYYY) as header.\
+One line per change with author initial at the end.
 
 ------------------------------------------------------------------------
 ## 15-09-2025
--   Renamed datasets to better reflect their origin --- A
+-   Replaced dataset2 with a fresh version. --- A
+-   Renamed datasets in /data to better reflect their origin --- A
 -   Updated notebooks to match new dataset names. --- A
+-   Finished exploration of dataset2. --- A
+-   Added exploratory vizzes: scatterplot, swarmplot, beeswarm. --- A  
 
 ## 13-09-2025
 -   Added dataset2. --- A
 -   Added `notebooks/messi_exploration_dataset2.ipynb`. --- A
+-   Finished exploration of dataset1. Conclusion: dataset1 is not suitable because of its limited time span. --- A
 
 ## 12-09-2025
 -   Repo structure (`data/`, `notebooks/`, `src/`, `figs/`). --- A
